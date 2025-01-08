@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahal-baki&show_icons=true&locale=en" alt="abdullahal-baki" /></p>
 
-<img src="https://raw.githubusercontent.com/abdullahal-baki/abdullahal-baki/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahal-baki/abdullahal-baki/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahal-baki/abdullahal-baki/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abdullahal-baki/abdullahal-baki/output/snake.svg" />
+</picture>
 
 ###
