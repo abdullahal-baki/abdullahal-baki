@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Freelance Python Developer
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 How to reach me: abdullahalbaki009@gmail.com
+- 🔗 My Portfolio: https://abdullahal-baki.github.io/
 
 <br><be>
 <!-- Profile Views Code -->
