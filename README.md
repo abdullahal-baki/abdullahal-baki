@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 - **Flask** – API & dashboard development
 - **FastAPI**
 - **SQLAlchemy**
+- **Celery, RabbitMQ & Redis**
 - Backend architecture & clean code structure
 
 ---
