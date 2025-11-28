@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 <!-- Profile Views Code -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahal-baki&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahal-baki" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahal-baki&show_icons=true&locale=en&layout=compact" alt="abdullahal-baki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahal-baki&show_icons=true&locale=en" alt="abdullahal-baki" /></p>
-
 
 ###
 
