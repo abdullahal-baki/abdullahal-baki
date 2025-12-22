@@ -1,102 +1,37 @@
-## Hi, My name is Abdullah Al Baki, Wellcome to my GitHub Profile
+## Hi, My name is Abdullah Al Baki, Welcome to my GitHub Profile 👋
 
-<!--
-**abdullahal-baki/abdullahal-baki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Freelance Python Developer  
+- 🔗 Portfolio: https://abdullahal-baki.github.io/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://github.com/abdullahal-baki"><img title="abdullahal-baki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahal-baki&layout=compact&theme=highcontrast"></a>
-
--->
-- 🔭 I’m currently working as a Freelance Python Developer
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 🔗 My Portfolio: https://abdullahal-baki.github.io/
-
-<br><be>
 <!-- Profile Views Code -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahal-baki&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahal-baki" /> </p>
 
+---
 
-###
+### 👨‍💻 About Me
+I am a Python Developer and AI Automation Engineer with hands-on experience in building scalable backend systems, AI-powered automation, and intelligent agent-based solutions. I specialize in designing clean, maintainable architectures and delivering production-ready applications.
 
-
-# 💻 Technical Skills
-
-## 🐍 Core Development
-- **Python (advanced)**
-- **Flask** – API & dashboard development
-- **FastAPI**
-- **SQLAlchemy**
-- **Celery, RabbitMQ & Redis**
-- Backend architecture & clean code structure
+I work extensively with Flask and FastAPI to develop APIs and dashboards, and I build automation systems using browser automation, workflow orchestration tools, and AI agents. My focus is always on efficiency, reliability, and real-world business impact.
 
 ---
 
-## 🗄️ Databases
-- MySQL  
-- PostgreSQL  
-- SQLite  
-- Database design & optimization  
-- ORM integration (SQLAlchemy)
+### 🛠️ Tech Stack
+- **Backend:** Python, Flask, FastAPI, SQLAlchemy  
+- **Automation:** Selenium, Playwright, n8n, Zapier  
+- **AI & GenAI:** LangChain, RAG, Vector Databases, OpenAI API  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **DevOps & Cloud:** Docker, AWS, GitHub Actions  
 
 ---
 
-## ☁️ Cloud & DevOps
-- AWS EC2, Lambda Functions  
-- Docker & containerization  
-- CI/CD pipelines (GitHub Actions)  
-- Server setup & deployment automation
+### 📌 What I Do
+- Build AI chatbots and agent-based automation systems  
+- Develop web scraping and data extraction pipelines  
+- Design and integrate REST APIs  
+- Automate workflows to improve business efficiency  
 
 ---
 
-## ⚙️ Automation & Integration
-- n8n, Make.com (Integromat), Zapier, Apify  
-- Robotic Process Automation (RPA)  
-- Browser automation (Selenium, Playwright)  
-- API integration & workflow automation  
-- Telegram & custom bot development
-
----
-
-## 🤖 AI & Generative Systems
-- LangChain, LangGraph, LangSmith, CrewAI  
-- VectorDB (Pinecone, FAISS, Chroma, etc.)  
-- Retrieval Augmented Generation (RAG) pipelines  
-- AI agentic workflow design  
-- Chatbot & GenAI integration (OpenAI API, LLMs)  
-- AI system architecture & orchestration
-
----
-
-## 🌐 Web Scraping & Data Automation
-- Scrapy, BeautifulSoup, Selenium, Playwright  
-- Web crawling & data extraction pipelines  
-- Spreadsheet automation  
-- Data scraping & cleaning scripts  
-- Automated reporting dashboards
-
----
-
-## 📊 Data Science & Machine Learning (Working Knowledge)
-- NumPy, pandas, matplotlib, seaborn  
-- scikit-learn (machine learning)  
-- TensorFlow, Keras (deep learning basics)  
-- Data preprocessing & model integration  
-
----
-
-## 🧩 Other Technical Expertise
-- Git, GitHub (version control)  
-- Docker-based deployment  
-- Professional project structure design  
-- LLM prompt engineering  
-- AI implementation & system integration  
-- Backend scripting & data pipeline optimization  
+### 🤝 Let’s Connect
+I’m open to freelance work, long-term collaborations, and interesting technical challenges.  
+Feel free to explore my repositories, and if you find something useful, don’t forget to ⭐ it.
