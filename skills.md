@@ -54,6 +54,7 @@
 - Spreadsheet automation  
 - Data scraping & cleaning scripts  
 - Automated reporting dashboards
+- WeasyPrint/ReportLab PDF generatetion
 
 ---
 
