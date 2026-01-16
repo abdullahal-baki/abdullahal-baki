@@ -4,7 +4,7 @@
 
 ## 🐍 Core Development
 - **Python (advanced)**
-- **Flask** – API & dashboard development
+- **Django REST** – API & dashboard development
 - **FastAPI**
 - **SQLAlchemy**
 - **Celery, RabbitMQ & Redis**
