@@ -26,6 +26,7 @@
 - Docker & containerization  
 - CI/CD pipelines (GitHub Actions)  
 - Server setup & deployment automation
+- Kubernetes Cluster Setup
 
 ---
 
@@ -39,7 +40,7 @@
 ---
 
 ## 🤖 AI & Generative Systems
-- LangChain, LangGraph, LangSmith, CrewAI  
+- LangChain, LangGraph, LangSmith, CrewAI, Llama-Index
 - VectorDB (Pinecone, FAISS, Chroma, etc.)  
 - Retrieval Augmented Generation (RAG) pipelines  
 - AI agentic workflow design  
