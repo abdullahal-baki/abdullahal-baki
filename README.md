@@ -20,7 +20,7 @@ I work extensively with Flask and FastAPI to develop APIs and dashboards, and I 
 - **Automation:** Selenium, Playwright, n8n, Zapier  
 - **AI & GenAI:** LangChain, RAG, Vector Databases, OpenAI API  
 - **Databases:** MySQL, PostgreSQL, SQLite  
-- **DevOps & Cloud:** Docker, AWS, GitHub Actions  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, GitHub Actions  
 
 ---
 
