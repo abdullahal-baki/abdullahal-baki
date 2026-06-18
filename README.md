@@ -16,7 +16,7 @@ I work extensively with Flask and FastAPI to develop APIs and dashboards, and I 
 ---
 
 ### 🛠️ [Tech Stack](https://github.com/abdullahal-baki/abdullahal-baki/blob/main/skills.md)
-- **Backend:** Python, Flask, FastAPI, SQLAlchemy  
+- **Backend:** Python, Django, FastAPI, SQLAlchemy  
 - **Automation:** Selenium, Playwright, n8n, Zapier  
 - **AI & GenAI:** LangChain, RAG, Vector Databases, OpenAI API  
 - **Databases:** MySQL, PostgreSQL, SQLite  
